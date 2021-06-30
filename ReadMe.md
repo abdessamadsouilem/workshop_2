@@ -1,4 +1,4 @@
-to start project you need to execute this commands
+to start project you need to execute this commands:
 
 "composer install"
 
